@@ -1,5 +1,5 @@
 {
   "rewrites" : [
-    { "source" : "/", "destination": /UIUX Website 1/templates/index.html" }
+    { "source" : "/", "destination": /UIUXWebsite1/templates/index.html" }
   ]
 }
